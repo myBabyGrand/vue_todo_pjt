@@ -1,6 +1,7 @@
 # vue_todo_pjt
 
-> todo
+See : https://mybabygrand.github.io/vue_todo_pjt/
+
 
 ## Build Setup
 
